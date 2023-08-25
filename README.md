@@ -2,5 +2,5 @@
 
 ## Features
 
-- Demo uso for MDC logging
+- Demo use for MDC logging
 - Different approaches for concurrent/parallel task execution
