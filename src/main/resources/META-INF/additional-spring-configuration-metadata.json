@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "app.transfer.service-name",
+    "type": "java.lang.String",
+    "description": "Transfer Service Name or implementation"
+  },
+  {
+    "name": "app.transfer.tasks-pool-size",
+    "type": "java.lang.String",
+    "description": "Amount of Threads/Concurrent transfer service tasks executions"
+  }
+]}
